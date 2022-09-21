@@ -3,6 +3,7 @@
 Write a Java program that prompts a user to enter the length and width of a rectangle and then proceeds to render a rectangle of the dimensions entered on the computer screen.
 ## Solution
 ### Java code
+```
 //rectangle.java
 import javax.swing.*;
 import java.util.Scanner;
@@ -29,7 +30,7 @@ System.out.println("Now go to the frame to get a rectangle of your dimensions");
     }
     
 }
-
+```
 ## Compiled code
 ###### Includes the above code + the compiled class
 [compiled.zip](https://github.com/SimonDouglas-bit/Rectangle/files/9615851/compiled.zip)
